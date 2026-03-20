@@ -1,0 +1,8 @@
+My To-Do List
+
+1. Review and organize course syllabi
+2. Set up digital calender
+3. Update software tools and IDES (e.g. VS Code, Git) on devices
+4. Complete introductory readings
+5. Form or join study groups
+6. Schedule weekly coding practice sessions
